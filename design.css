@@ -1,0 +1,48 @@
+.body{
+    background: rgb(44, 1, 44);
+    ;
+}
+
+div {
+    text-align: left;
+    text-size-adjust: center;
+    
+    color: rgb(253, 252, 253);
+    image-rendering: optimizeQuality;
+    image-orientation: flip;
+    image-rendering: -moz-crisp-edges;
+    border-image:auto;
+    float: left;
+
+
+}
+.container {
+    display: flex;
+    align-items:flex center;
+    justify-content:flex-start;
+}
+
+button {left: 1px;
+        margin: 1px;
+        background-color: rgb(138, 6, 72);
+        border: 0;
+        padding:1% ;
+        
+
+
+}
+p {color: rgb(253, 252, 253);
+    text-align: left;
+    text-size-adjust: center;
+
+}.space {
+    width: 20px;
+    height: auto;
+    display: block;
+  }
+
+ a {color: rgb(251, 252, 253);
+    text-decoration:line-through 
+    cursor: auto;
+
+ }
